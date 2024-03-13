@@ -1,3 +1,0 @@
-/home/james/code/hydrogen/cmake-build-debug/CMakeFiles/hydro.dir
-/home/james/code/hydrogen/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/james/code/hydrogen/cmake-build-debug/CMakeFiles/rebuild_cache.dir
