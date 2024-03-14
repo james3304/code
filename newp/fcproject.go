@@ -5,7 +5,7 @@ import (
 	"log"
 	"os"
 	"github.com/karashiiro/bingode"
-	
+	"github.com/xivapi/godestone/v2"
 )
 
 func checkFile () error {
