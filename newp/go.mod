@@ -7,6 +7,8 @@ require (
 	github.com/xivapi/godestone/v2 v2.7.0
 )
 
+replace github.com/xivapi/godestone/v2 => github.com/james3304/godestone/v2 v2.0.0-20240314152425-975f03557c7d
+
 require (
 	github.com/PuerkitoBio/goquery v1.8.1 // indirect
 	github.com/andybalholm/cascadia v1.3.2 // indirect
